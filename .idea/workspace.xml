@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9be481ab-c7dc-4295-bd28-e36728758000" name="Changes" comment="Message">
+    <list default="true" id="9be481ab-c7dc-4295-bd28-e36728758000" name="Changes" comment="Plugin work&#10; - Select class clear&#10; - Print class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/LogDicsript.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LogDicsript.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/dania/IdeaProjects/untitled&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,6 +61,18 @@
       <option name="presentableId" value="Default" />
       <updated>1697380967524</updated>
     </task>
+    <task id="LOCAL-00001" summary="Plugin work&#10; - Select class clear&#10; - Print class">
+      <created>1697385491068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697385491068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Plugin work&#10; - Select class clear&#10; - Print class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plugin work&#10; - Select class clear&#10; - Print class" />
   </component>
 </project>
