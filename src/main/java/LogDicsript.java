@@ -21,7 +21,7 @@ public class LogDicsript extends AnAction {
                 FileWriter pw = new FileWriter(file, true);
                 pw.write("\n# New class\n" + "## " + message);
                 pw.flush();
-                Messages.showMessageDialog(message, "Log Class", Messages.getInformationIcon());
+                Messages.showMessageDialog(messag   e, "Log Class", Messages.getInformationIcon());
             } catch (IOException ex) {
                 System.out.println(ex.getMessage());
             }
