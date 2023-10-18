@@ -47,3 +47,4 @@ public class LogDicsript extends AnAction {
     }
 }
 ```
+Avtor Lukin Daniil №409031
